@@ -1,7 +1,7 @@
 === WP Progress Bar ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: progressbar, progress-bar, bar, progress, responsive, retina, customize, custom, customizer, customizing, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
+Tags: progressbar, progress-bar, bar, progress, responsive, retina, customize, custom, customizer, customizing, easy, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
 Requires at least: 2.8.0
 Tested up to: 4.2.3
 Stable tag: 1.0.0
