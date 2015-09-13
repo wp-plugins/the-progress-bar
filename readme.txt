@@ -1,7 +1,7 @@
 === WP Progress Bar ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: progressbar, progress-bar, bar, progress, responsive, retina, customize, custom, customizer, customizing, easy, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
+Tags: progressbar, progress-bar, bar, progress, responsive, retina, rtl, customize, custom, customizer, customizing, easy, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
 Requires at least: 2.8.0
 Tested up to: 4.3
 Stable tag: 1.0.0
@@ -40,13 +40,9 @@ Add progress bar in your posts easily, responsive and retina, full customize, co
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
 
-### About
-
-* [The plugin designed and developed by Alobaidi.](http://j.mp/1HVBgA6)
-
 ### More Plugins
 
-* [My Plugins](https://profiles.wordpress.org/alobaidi/#content-plugins)
+* [My Plugins](https://profiles.wordpress.org/alobaidi#content-plugins)
 
 == Installation ==
 
@@ -72,11 +68,15 @@ Add progress bar in your posts easily, responsive and retina, full customize, co
 6. width="here enter wrap width size, example: 200" default is 100%.
 7. bottom="here enter wrap margin bottom value, example: 15" default is 30px.
 
+* [Read explanation of use](http://wp-plugins.in/wordpress-progress-bar-plugin)
+
 == Frequently Asked Questions ==
 
 ### FAQ
 
-* For more questions or help, [contact me](http://j.mp/1HVBgA6).
+* [Read explanation of use](http://wp-plugins.in/wordpress-progress-bar-plugin)
+* [For more questions or help, contact me.](http://wp-plugins.in/1XnA5Qr)
+* [Or on twitter.](http://wp-plugins.in/1L6zCZL)
 
 == Changelog ==
 
