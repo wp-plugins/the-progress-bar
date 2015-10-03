@@ -3,7 +3,7 @@
 	defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 	
 	function WPTime_wp_progress_bar_settings() {
-		add_plugins_page( 'WP Progress Bar Settings', 'WP Progress Bar', 'update_core', 'WPTime_wp_progress_bar_settings', 'WPTime_wp_progress_bar_settings_page');
+		add_plugins_page( 'WP Progress Bar Settings', 'WP Progress Bar', 'manage_options', 'WPTime_wp_progress_bar_settings', 'WPTime_wp_progress_bar_settings_page');
 	}
 	add_action( 'admin_menu', 'WPTime_wp_progress_bar_settings' );
 	
